@@ -2,4 +2,4 @@
 
 ![alt text](https://media.tenor.com/28ggGnW6QCoAAAAC/welcome.gif)
 
-[a relative link](test.md)
+[a relative link](profile/test.md)
